@@ -1,6 +1,7 @@
 # Football Manager Data Analysis Project
 ## Overview
 This project uses Python to analyze player data from Football Manager, replicating the Moneyball system for recruiting transfers with data-driven decisions. We aim to identify undervalued players to maximize team performance.
+https://medium.com/@ebenvevo/data-driven-recruitment-on-football-manager-using-python-89efe431e48d
 
 ## Features
 Data Collection: Gather player stats from Football Manager.  
